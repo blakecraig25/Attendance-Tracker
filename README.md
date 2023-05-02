@@ -26,7 +26,7 @@
  
  
 ### Useful Links for this project:
-- [DevLogs]()
+- [DevLogs](https://docs.google.com/document/d/1_ZYp7lE-O2B3Qo3t3RXmOEeQC7iaxt-k5I9XMCQGwAs/edit?usp=sharing)
 - []()
 - []()
 
