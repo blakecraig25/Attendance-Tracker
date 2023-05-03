@@ -1,4 +1,4 @@
-import cv2, time, msvcrt
+import cv2, time
 from time import localtime, strftime
 
 video = cv2.VideoCapture(0)
