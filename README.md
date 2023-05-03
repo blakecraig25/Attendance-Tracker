@@ -23,7 +23,10 @@ Although this device is meant for tracking the attendance of people at the begin
 6. Power Cord for Raspberry Pi 3 (5.1 V micro USB power supply)
 
 ### Rough Outline:
-  
+
+[Link to Original Pitch](https://docs.google.com/presentation/d/1O95ZX5KgljtILGdT4T_9l_w7FyWo5n8bnMxUZsTnpQk/edit?usp=sharing)
+![image](https://user-images.githubusercontent.com/112400887/235817887-8cc2be63-ef89-4fd0-8465-c0f245e863ea.png)
+
 
 ### Code:
  Description: | Code: | Instruction:
@@ -36,7 +39,9 @@ This code is for the Raspberry Pi itself with the attached webcam.  | [Link to R
 - [DevLogs](https://docs.google.com/document/d/1_ZYp7lE-O2B3Qo3t3RXmOEeQC7iaxt-k5I9XMCQGwAs/edit?usp=sharing)
 - [GitHub Attendance Tracker Repo](https://github.com/blakecraig25/Attendance-Tracker)
 - [Box Apparatus](https://en.makercase.com/#/basicbox)
+- [Motion Detection Python Code video](https://www.youtube.com/watch?v=oxmZ9zczptg)
 
 ### Similar Projects:
-- []()
-- []()
+- [Piezoelextric Sensor](https://en.wikipedia.org/wiki/Piezoelectric_sensor)
+- [Jibble.io Time Tracker](https://www.jibble.io/)
+- [Person Counter by PyImageSearch](https://pyimagesearch.com/2018/08/13/opencv-people-counter/)
