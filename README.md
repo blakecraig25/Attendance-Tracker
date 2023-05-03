@@ -34,8 +34,8 @@ Although this device is meant for tracking the attendance of people at the begin
  
 ### Useful Links for this project:
 - [DevLogs](https://docs.google.com/document/d/1_ZYp7lE-O2B3Qo3t3RXmOEeQC7iaxt-k5I9XMCQGwAs/edit?usp=sharing)
-- []()
-- []()
+- [GitHub Attendance Tracker Repo](https://github.com/blakecraig25/Attendance-Tracker)
+- [Box Apparatus](https://en.makercase.com/#/basicbox)
 
 ### Similar Projects:
 - []()
