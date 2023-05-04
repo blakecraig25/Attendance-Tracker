@@ -34,6 +34,8 @@ Although this device is meant for tracking the attendance of people at the begin
  This is code for testing the webcam from you computer. | [Link to Computer Version](https://github.com/blakecraig25/Attendance-Tracker/blob/main/InputOutput.py) | This code will run the exact same as the seperated webcam and uses your computer's camera as the webcam. When you start it, it will automatically start going, so make sure that you get out of the camera angle. The webcam will establish a background image and use that pixel data to determine if there were changes, so it is important that you have a consistent background. When you are done, press the button again to close out of the program. In the same folder as this program, you will find the attendance labelled with the date of the recording.
 This code is for the Raspberry Pi itself with the attached webcam.  | [Link to Rasperry Pi 3 Version](http://github.com/blakecraig25/Attendance-Tracker) | This code will run just like the computer version. Same rules apply.
  
+### Video:
+[![Video for Autonomous Attendance Tracker](https://i9.ytimg.com/vi/s_n3HuLIX6I/mqdefault.jpg?v=64541455&sqp=CMyy0KIG&rs=AOn4CLBFaArMrn1rnFUje4_7yeodog83KA)](https://www.youtube.com/watch?v=s_n3HuLIX6I)
  
 ### Useful Links for this project:
 - [DevLogs](https://docs.google.com/document/d/1_ZYp7lE-O2B3Qo3t3RXmOEeQC7iaxt-k5I9XMCQGwAs/edit?usp=sharing)
